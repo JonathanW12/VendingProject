@@ -1,0 +1,9 @@
+.product{
+    height: 30px;
+    display: flex;
+    min-width: 200px;
+    align-items: center;
+    justify-content: space-between;
+    cursor:pointer;
+    border-style: groove;
+}

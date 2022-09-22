@@ -1,0 +1,8 @@
+.balance{
+    display: flex;
+    height: 30px;
+    align-items: center;
+}
+.tray{
+    border-style: none solid solid solid;
+}
